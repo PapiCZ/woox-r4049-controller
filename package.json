@@ -1,0 +1,22 @@
+{
+  "name": "woox-r4049-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapiCZ/woox-r4049-controller.git"
+  },
+  "author": "Patrik Janoušek <pj@patrikjanousek.cz>",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/PapiCZ/woox-r4049-controller/issues"
+  },
+  "homepage": "https://github.com/PapiCZ/woox-r4049-controller#readme",
+  "dependencies": {
+    "tuyapi": "github:codetheweb/tuyapi"
+  }
+}
